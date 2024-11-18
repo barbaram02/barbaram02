@@ -43,7 +43,7 @@ Backend Development student from Rio de Janeiro - Brazil and Systems Analysis an
 <div align="center">  
   <a href= "https://github.com/barbaram02">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=barbaram02&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=c9d1d9&bg_color=0d1117&random=1" alt="Github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaram02&layout=compact&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaram02&layout=compact&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=0d1117&random=1" />
 </div>
 
 
