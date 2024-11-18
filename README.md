@@ -31,7 +31,7 @@ Backend Development student from Rio de Janeiro - Brazil and Systems Analysis an
 
 ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=4B0082) 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=4B0082)
-![C Sharp](https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=CSharp&logoColor=264CE4&logoColor=4B0082)
+![C#](https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=CSharp&logoColor=264CE4&logoColor=4B0082)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=4B0082)
 ![.Net](https://img.shields.io/badge/dotnetcore-000?style=for-the-badge&logo=.Net&logoColor=4B0082)
 ![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=4B0082)
