@@ -31,13 +31,13 @@ Backend Development student from Rio de Janeiro - Brazil and Systems Analysis an
 
 ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=4B0082) 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=4B0082)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4&logoColor=4B0082)
+![C#](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4&logoColor=4B0082)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=4B0082)
-![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django&logoColor=4B0082)
+![DOTNET CORE](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django&logoColor=4B0082)
 ![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=4B0082)
 ![SQlServer](https://img.shields.io/badge/sqlserver-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=4B0082)
 ![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=4B0082)
-![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=4B0082)
+![CSS](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=4B0082)
 
 </div>
 
